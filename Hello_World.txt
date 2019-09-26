@@ -1,8 +1,2 @@
 Hello World!
-<<<<<<< HEAD
 I'm a super programmer-busiess-analyst!
-Yeah!
-=======
-I'm a super programmer-busiess-analyst!
-Yeah!
->>>>>>> newbranch
